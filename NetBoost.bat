@@ -70,10 +70,9 @@ rd %temp% /s /q
 echo.
 echo.
 echo                                       Your Temporary and Cache files has been deleted
-speedtest
 echo.
 echo. 
-echo                                              Hope You Enjoy IT!!! from Sufi!
+echo                                              Hope You Enjoy NetBoost-2.0!!! from Sufi!
 echo.
 echo.
 pause
